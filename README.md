@@ -1,4 +1,3 @@
-# 18082010076sifoupnjatim.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
