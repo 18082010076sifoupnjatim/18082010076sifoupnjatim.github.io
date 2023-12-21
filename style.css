@@ -1,7 +1,15 @@
 .page_404 {
-  padding: 40px 0;
+/*   padding: 40px 0;
   background: #fff;
-  font-family: "Arvo", serif;
+  font-family: "Arvo", serif; */
+   position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%,-60%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .page_404 img {
   width: 100%;
